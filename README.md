@@ -98,7 +98,10 @@ And, later, ending the Server with ctrl+c.
 
 ## Authors
 
-- Arthur COELHO RUBACK
-- Matheus SANTOS SANO
+- Arthur Coelho Ruback:
+    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arthur-ruback)
+
+- Matheus SANTOS SANO:
+    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
 We would like to thank our professor Mr. Bruno MONSUEZ for the knowledge taught in IN204 which were essential for the realization of this project.
