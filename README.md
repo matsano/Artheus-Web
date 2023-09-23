@@ -1,4 +1,4 @@
-# PROJET IN204 - Artheus Web
+# PROJECT IN204 - Artheus Web
 Final project in C++ for the Software Engineering and Object Oriented Programming course (IN204).
 
 ## Description
