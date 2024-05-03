@@ -1,5 +1,5 @@
 # PROJECT IN204 - Artheus Web
-Final project in C++ for the Software Engineering and Object Oriented Programming course (IN204).
+Final project in C++ for the Software Engineering and Object Oriented Programming course.
 
 ## Description
 The program is a multi-user chat with a server through object-oriented programming.
